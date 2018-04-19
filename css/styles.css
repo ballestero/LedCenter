@@ -1,0 +1,18 @@
+.logoNav{
+    width: 100px;
+}
+
+.logoHome{
+    width: 60%
+}
+
+#mainNav{
+}
+
+#mainNav .navbar-nav .nav-item .nav-link{
+    color:#009
+}
+
+section#contact{
+    background-color: #009
+}
