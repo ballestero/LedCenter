@@ -16,3 +16,17 @@
 section#contact{
     background-color: #009
 }
+
+.textContact{
+    color: #fff;
+    font-weight: 400;
+}
+
+.tel, .ubi{
+    margin-top: 3em;
+    font-size: 1.2em;
+}
+
+.tel, .ubi i{
+    font-size: 1.5em
+}
