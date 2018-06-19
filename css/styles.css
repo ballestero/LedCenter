@@ -46,8 +46,6 @@ h2{
     width: 400px;
 }
 
-
-.carousel-indicators li {
-
-    background-color: red;
+.btn-download{
+    margin: auto;
 }
