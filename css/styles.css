@@ -43,9 +43,17 @@ h2{
 } 
 
 .team-member img {
-    width: 400px;
+    width: 350px;
 }
 
 .btn-download{
     margin: auto;
+}
+
+.leds-description{
+    margin-top: 2em
+}
+
+.downImg{
+    width: 35px;
 }
